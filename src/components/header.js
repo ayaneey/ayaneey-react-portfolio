@@ -5,14 +5,6 @@ function Header() {
 	return (
 		<>
 			<header style={{ border: "1px solid black" }}>
-				<a href="#" class="logo">
-					<img
-						src="/assets/images/logo-no-background.png"
-						height="120"
-						width="155"
-						alt="ayan-logo"
-					/>
-				</a>
 				<nav>
 					<ul>
 						<li>
