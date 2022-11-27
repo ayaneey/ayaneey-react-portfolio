@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;1,400;1,500;1,600&display=swap");
+
 /* Page Template */
 * {
 	padding: 0;
@@ -210,4 +212,249 @@ nav a:hover::before {
 
 .about {
 	font-size: 25px;
+}
+
+/* Project Title */
+
+#projects-title {
+	background-color: var(--copper-penny);
+	font-family: "Jost", sans-serif;
+	margin-top: 2%;
+}
+
+/* Projects - styling */
+
+.project-image1 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: -32%;
+	margin-top: 3%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--light-gray);
+}
+
+#text1 {
+	margin-left: 55%;
+	/* margin-bottom: -55%; */
+	/* margin-bottom: 100px; */
+	color: var(--light-gray);
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	display: inline-block;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: center;
+	text-align: center;
+}
+
+.project-image2 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: -28%;
+	/* margin-left: 40%; */
+	margin-top: 12%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--light-gray);
+}
+
+#pic2 {
+	margin-left: 90.8%;
+}
+
+#text2 {
+	margin-left: 1%;
+	margin-right: 55%;
+	/* margin-bottom: 100px; */
+	color: var(--light-gray);
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	display: inline-block;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	text-align: center;
+}
+
+.project-image3 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	/* margin-bottom: 50%; */
+	margin-top: 15%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--light-gray);
+}
+
+#pic3 {
+	margin-right: 57.4%;
+}
+
+#text3 {
+	margin-top: -30%;
+	margin-bottom: 10%;
+	margin-left: 60%;
+	margin-right: 9%;
+	color: var(--light-gray);
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	display: inline-flexbox;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	text-align: center;
+}
+
+.project-image4 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 4%;
+	margin-top: 7%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--light-gray);
+}
+
+#pic4 {
+	margin-left: 270%;
+	margin-bottom: 7%;
+	margin-top: 50%;
+}
+
+.project-image5 {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: -35%;
+	margin-top: 12%;
+	border-radius: 3px;
+	border-style: solid;
+	border-color: var(--light-gray);
+}
+
+#text5 {
+	margin-left: 58%;
+	margin-top: 7%;
+	/* margin-bottom: -55%; */
+	/* margin-bottom: 100px; */
+	color: var(--light-gray);
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	display: inline-block;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: center;
+	text-align: center;
+}
+
+#text4 {
+	margin-top: -31%;
+	margin-left: 2%;
+	margin-right: 55%;
+	color: var(--light-gray);
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	display: inline-flexbox;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	text-align: center;
+}
+
+/* Mini-Projects */
+
+.mini {
+	margin-top: 19%;
+}
+
+#mini-titles {
+	font-family: "Jost", sans-serif;
+	margin-top: 5%;
+	color: rgba(135, 222, 188, 0.483);
+	text-align: center;
+	margin-top: 23%;
+}
+
+#mini-texts {
+	margin-top: 14%;
+}
+
+.mini-projects {
+	background-color: #97a97c;
+	font-family: "Jost", sans-serif;
+	font-size: 20px;
+	margin-top: -2%;
+	text-align: center;
+}
+
+/* Mini-Project */
+.mini-project1 {
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	margin-right: 64%;
+	text-align: center;
+}
+
+#mini-texts {
+	margin-top: 10%;
+	margin-right: 20%;
+	margin-left: 19%;
+}
+
+#mini1 {
+	margin-left: 130%;
+	margin-top: -60%;
+	border-radius: 2px;
+	border-style: solid;
+	border-color: var(--champagne-pink);
+}
+
+/* Mini-Project 2 */
+.mini-project2 {
+	font-family: "Playfair Display", serif;
+	font-size: 20px;
+	margin-right: 64%;
+	margin-top: -20%;
+	text-align: center;
+}
+
+#mini-titles2 {
+	font-family: "Jost", sans-serif;
+	color: rgba(135, 222, 188, 0.483);
+	margin-top: 70%;
+	/* margin-top: 125%; */
+}
+
+#mini-texts2 {
+	margin-top: 12%;
+	margin-right: 20%;
+	margin-left: 19%;
+}
+
+#mini2 {
+	margin-left: 130%;
+	margin-top: -75%;
+	border-radius: 2px;
+	border-style: solid;
+	border-color: var(--champagne-pink);
+}
+
+/* Footer */
+
+.footer {
+	font-family: "Jost", sans-serif;
+	/* margin-top: 10%; */
+	/* position: fixed; */
+	/* left: 0;
+  bottom: 0; */
+	margin-top: 10%;
+	/* width: auto; */
+	background-color: var(--tuscany);
+	color: white;
+	text-align: center;
 }

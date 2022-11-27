@@ -18,6 +18,15 @@ function Header() {
 						<li>
 							<a href="#contact">Contact</a>
 						</li>
+
+						<li>
+							<a
+								href="./assets/images/Ayan Ahmed - CV 2022 without address.pdf"
+								Download
+							>
+								Download CV
+							</a>
+						</li>
 					</ul>
 				</nav>
 			</header>
