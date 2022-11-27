@@ -17,7 +17,7 @@ This portfolio compromises of all the projects and mini-projects I have complete
 Below, you will see a snapshot of the deployed app.
 ![portfolio-gif](https://user-images.githubusercontent.com/108099259/196553813-51d77df6-232b-442b-89ad-26b79b1341c6.gif)
 
-[CLICK HERE]()
+[CLICK HERE](https://ayaneey.github.io/ayaneey-react-portfolio/)
 
 ## GitHub
 
