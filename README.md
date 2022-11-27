@@ -1,8 +1,22 @@
 # Ayan-Ahmed-React-Portfolio
 
-## Description 📖
+## Table of contents 📖
 
-This portfolio compromises of all the projects and mini-projects I have completed to this date. More projects pending!
+- [UserStory](#UserStory)
+- [Technology](#Technology)
+- [App](#App)
+- [Contribution](#Contribution)
+- [License](#License)
+- [Github](#Github)
+- [Email](#Email)
+
+## User Story 📖
+
+```
+AS AN employer looking for candidates with experience building single-page applications
+I WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT I can assess whether they're a good candidate for an open position
+```
 
 ## Technologies 🛠
 
@@ -12,12 +26,20 @@ This portfolio compromises of all the projects and mini-projects I have complete
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Deployed App
+## App
 
 Below, you will see a snapshot of the deployed app.
 ![portfolio-gif](https://user-images.githubusercontent.com/108099259/196553813-51d77df6-232b-442b-89ad-26b79b1341c6.gif)
 
 [CLICK HERE](https://ayaneey.github.io/ayaneey-react-portfolio/)
+
+## Contribution
+
+Made by @ayaneey 👩🏽‍💻
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## GitHub
 
