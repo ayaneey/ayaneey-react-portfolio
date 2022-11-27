@@ -1,5 +1,7 @@
 # Ayan-Ahmed-React-Portfolio
 
+![GitHub Views](https://komarev.com/ghpvc/?username=ayaneey)
+
 ## Table of contents 📖
 
 - [UserStory](#UserStory)
