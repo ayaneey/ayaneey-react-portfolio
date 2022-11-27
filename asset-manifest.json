@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ayaneey-react-portfolio/static/css/main.f747c9cd.css",
+    "main.js": "/ayaneey-react-portfolio/static/js/main.14e0c036.js",
+    "static/js/787.128fc6e9.chunk.js": "/ayaneey-react-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/logo.svg": "/ayaneey-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ayaneey-react-portfolio/index.html",
+    "main.f747c9cd.css.map": "/ayaneey-react-portfolio/static/css/main.f747c9cd.css.map",
+    "main.14e0c036.js.map": "/ayaneey-react-portfolio/static/js/main.14e0c036.js.map",
+    "787.128fc6e9.chunk.js.map": "/ayaneey-react-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f747c9cd.css",
+    "static/js/main.14e0c036.js"
+  ]
+}
