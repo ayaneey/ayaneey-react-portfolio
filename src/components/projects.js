@@ -127,6 +127,25 @@ function Projects() {
 				</h1>
 			</div>
 
+			<div class="project-image6">
+				<a
+					href="https://limitless-taiga-85825.herokuapp.com/"
+					alt="BTech"
+					target="_blank"
+				>
+					<img
+						id="pic5"
+						src="./assets/images/BTech.png"
+						height="530px"
+						width="800px"
+						alt="project"
+					/>
+				</a>
+			</div>
+			<div id="text6">
+				<h1>Tester</h1>
+			</div>
+
 			<div class="mini">
 				<div class="mini-projects">
 					<h1>Mini Projects</h1>
